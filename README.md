@@ -1,4 +1,6 @@
-# 🧪 Deploying a Homelab for Simulated ATT&CK Scenarios
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=800&color=32CD32&center=true&vCenter=true&width=900&height=60&lines=🧪+Deploying+a+Homelab+for+Simulated+ATT%26CK+Scenarios" alt="Typing animation title">
+</h1>
 
 Cybersecurity is a continuous battle between attackers (Red Team) and defenders (Blue Team). To better understand this dynamic, I built a homelab featuring Active Directory (AD) to simulate **MITRE ATT&CK** scenarios in a controlled environment. The goal was to **capture attack logs using Splunk** and gain hands-on experience with detecting and mitigating threats in real time.
 
